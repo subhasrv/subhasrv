@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @subhasrv
-- 👀 I’m interested in Python Development, Automation Testing and Data Engineering
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python Projects.
-- 📫 How to reach me ...
+- 👀 I’m interested in Cloud Infrastructure Engineering, DevSecOps and Web Development. 
+- 🌱 I’m currently learning Web Development and IaaC. 
+- 📫 How to reach me ... vaidyanathan.subhasree@gmail.com 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a bearded dragon.
 
