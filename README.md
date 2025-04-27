@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Python Projects.
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I have a bearded dragon.
 
 <!---
 subhasrv/subhasrv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
