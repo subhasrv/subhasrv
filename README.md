@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development and IaaC. 
 - 📫 How to reach me ... vaidyanathan.subhasree@gmail.com 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have a bearded dragon.
+- ⚡ Fun fact: I love Phoenix! 
 
 <!---
 subhasrv/subhasrv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
